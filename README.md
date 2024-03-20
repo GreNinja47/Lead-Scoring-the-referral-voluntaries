@@ -1,4 +1,4 @@
 # Lead-Scoring-the-referral-voluntaries
 The company had a promotional campaign, now its working to pinpoint all the users suitable for outreach by the sales team, specifically those demonstrating a strong likelihood of purchasing the program or evolving into prospective customers with a likelihood rate of above 80%
 
-<img align="center" alt="Coding" width="400" src="https://i.gifer.com/7bVJ.gif">
+<img align="center" alt="Coding" width="400" src="https://y.yarn.co/5e2e2879-c2c4-4a7e-bb19-d3d884b97281_text.gif">
