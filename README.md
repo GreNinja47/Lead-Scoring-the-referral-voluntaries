@@ -3,6 +3,6 @@ The company had a promotional campaign, now its working to pinpoint all the user
 
 <br>
 
-<img align="left" alt="Coding" width="450" src="https://y.yarn.co/5e2e2879-c2c4-4a7e-bb19-d3d884b97281_text.gif"> 
+<img align="left" alt="Coding" width="400" src="https://y.yarn.co/5e2e2879-c2c4-4a7e-bb19-d3d884b97281_text.gif"> 
 
 <img align="right" alt="Coding" width="450" src="https://global.discourse-cdn.com/smallgiantgames/original/3X/8/5/8507b3a2be8e3d02a7bf75cdb4264698aa5944dc.gif"> 
