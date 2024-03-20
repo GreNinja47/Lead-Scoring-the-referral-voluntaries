@@ -1,4 +1,7 @@
 # Lead-Scoring-the-referral-voluntaries
+
+Classification ML Model : Supervised Parametric Modelling
+
 The company had a promotional campaign, now its working to pinpoint all the users suitable for outreach by the sales team, specifically those demonstrating a strong likelihood of purchasing the program or evolving into prospective customers with a likelihood rate of above 80%
 
 <br>
